@@ -1,0 +1,8 @@
+venv/
+*.pyo
+*.pyc
+.idea
+received_file1_.*
+keys/client/*
+.vscode/*
+__pycache__/
